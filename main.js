@@ -1,5 +1,5 @@
 //! Count Down Timer
-let countDownDate = new Date("Feb 10, 2023 14:00:00").getTime();
+let countDownDate = new Date("Feb 10, 2023 14:30:00").getTime();
 
 let counter = setInterval(() => {
   // Get Date Now
